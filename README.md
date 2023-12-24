@@ -13,7 +13,7 @@
 
   > <h1>Estudando 🤓</h1>
 <div align="left" >
-  <img src="https://skillicons.dev/icons?i=javascript,react" />
+  <img src="https://skillicons.dev/icons?i=javascript," />
 </div>
   <br>
 
