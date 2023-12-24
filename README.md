@@ -1,12 +1,12 @@
 ## Olá amigo, seja bem vindo ao meu perfil aqui no GitHub!
 <br>
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Stalony!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Alisson!;" />
 </h1>
 <br>
 
 > <h1>Sobre mim ✨</h1
-<p>Olá me chamo Alisson Luiz, mas pode me chamar de Stalony, eu tenho 15 anos de idade <br> e eu quero me tornar um excelente desenvolvedor front-end</p>
+<p>Olá me chamo Alisson Luiz, eu tenho 15 anos de idade <br> e eu quero me tornar um excelente desenvolvedor front-end</p>
 
 <div style="display: inline_block"><br>
   <h1>Minhas Tecnologias 💻</h1>
