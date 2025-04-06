@@ -6,7 +6,7 @@
 <br>
 
 > <h1>Sobre mim ✨</h1
-<p>Olá me chamo Alisson Luiz, eu tenho 15 anos de idade <br> e eu quero me tornar um excelente desenvolvedor front-end</p>
+<p>Olá me chamo Alisson Luiz, eu tenho 16 anos de idade <br> e eu quero me tornar um excelente desenvolvedor</p>
 
 <div style="display: inline_block"><br>
   <h1>Minhas Tecnologias 💻</h1>
