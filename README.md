@@ -19,7 +19,7 @@
 
   > <h1>Dominando 😎 </h1>
   <div align="left" >
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,git," />
 </div>
 </div>
   
