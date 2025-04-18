@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Alisson Luiz, tenho 17 anos e sou natural do Nordeste. estou cursando Análise e Desenvolvimento de Sistemas na UFAL. Sou apaixonado por tecnologia. me siga no Instagram, com o perfil chamado "[Alisson Rocha](https://www.instagram.com/alissonrocha.08/)".
+Me chamo Alisson Luiz, tenho 17 anos e sou desenvolvedor junior. Sou apaixonado por tecnologia. me siga no Instagram, com o perfil chamado "[Alisson Rocha](https://www.instagram.com/alissonrocha.08/)".
 
 <p align="left">
     <a href="https://github.com/alissonrocha08?tab=repositories&sort=stargazers">
