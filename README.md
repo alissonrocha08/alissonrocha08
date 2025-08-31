@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Alisson Luiz De Mesquita Rocha Do Nascimento, tenho 17 anos e sou natural de Alagoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFAL. 
+Me chamo Alisson Luiz De Mesquita Rocha Do Nascimento, tenho 17 anos e sou natural de Alagoas. 
 <p align="left">
     <a href="https://github.com/alissonrocha08?tab=repositories&sort=stargazers">
         <img 
